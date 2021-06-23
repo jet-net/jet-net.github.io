@@ -28,7 +28,7 @@ twitter_username:
 github_username:  jet-net
 
 # Build settings
-remote-theme: pmarsceill/just-the-docs
+theme: minima
 plugins:
   - jekyll-feed
 
